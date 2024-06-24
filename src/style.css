@@ -54,6 +54,9 @@ main {
 .weather-app-details strong {
   color: #f65282;
 }
+.weather-app-temperature-container {
+  display: flex;
+}
 
 .weather-app-data {
   display: flex;
